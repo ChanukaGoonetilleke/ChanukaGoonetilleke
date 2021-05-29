@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChanukaGoonetilleke
-- 👀 I’m interested in Web Development, Mobile Applications Developemnt AND 3D Graphics
+- 👀 I’m interested in Web Development, and Mobile Applications Developemnt
 - 🌱 I’m currently learning OpenGL and React
 - 💞️ I’m looking to collaborate on Web Games
 - 📫 How to reach me is with email.
