@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChanukaGoonetilleke
 - 👀 I’m interested in Web Development, and Mobile Applications Developemnt
-- 🌱 I’m currently learning OpenGL and React
+- 🌱 I’m currently improving my front-end developer skilss
 - 💞️ I’m looking to collaborate on Web Application
 - 📫 How to reach me is with email.
 
