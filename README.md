@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChanukaGoonetilleke
-- 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently improving my Backend Development Skills
-- 💞️ I’m looking to collaborate on awesome concepts 
+- 👀 I’m interested in Software Engineering & Cloud
+- 🌱 I’m currently learning AWS.
+- 💞️ I’m looking to collaborate on awesome concepts.
 - 📫 How to reach me is with email.
 
 <!---
